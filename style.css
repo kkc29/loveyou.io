@@ -2,7 +2,7 @@ body {
     background-image: url(love.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 p{
     text-align: center;
